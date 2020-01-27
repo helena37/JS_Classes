@@ -173,7 +173,9 @@ template: {
 }	
 Hints
 You may have to keep track of the last assigned ID in a closure that is accessible by the constructor. Constructor functions offer direct access to their prototypes - you can view and modify them with className.prototype.
+
 6.	Sorted List
+
 Implement a class, which keeps a list of numbers, sorted in ascending order. It must support the following functionality:
 •	add(elemenent) - adds a new element to the collection
 •	remove(index) - removes the element at position index
